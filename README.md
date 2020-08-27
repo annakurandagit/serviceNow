@@ -3,7 +3,7 @@ ServiceNow home assignment
 
 Groups together similar sentences (sentences where only a single word has
 changed) and extracts the changes, then outputs them to a file in the following format:
-=====
+
 01-01-2012 19:45:00 Naomi is getting into the car
 02-01-2012 09:13:15 George is getting into the car
 The changing word was: Naomi, George
