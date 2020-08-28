@@ -1,5 +1,5 @@
-###########Author: Anna Kuranda
-###########ServiceNow home assignment
+#####Author: Anna Kuranda
+#####ServiceNow home assignment
 
 Groups together similar sentences (sentences where only a single word has
 changed) and extracts the changes, then outputs them to a file in the following format:
